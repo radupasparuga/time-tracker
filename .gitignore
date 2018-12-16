@@ -1,0 +1,15 @@
+toggl-clone-frontend/.DS_Store
+toggl-clone-frontend/node_modules/
+toggl-clone-frontend/dist/
+toggl-clone-frontend/npm-debug.log*
+toggl-clone-frontend/yarn-debug.log*
+toggl-clone-frontend/yarn-error.log*
+toggl-clone-frontend/package-lock.json
+
+# Editor directories and files
+toggl-clone-frontend/.idea
+toggl-clone-frontend/.vscode
+toggl-clone-frontend/*.suo
+toggl-clone-frontend/*.ntvs*
+toggl-clone-frontend/*.njsproj
+toggl-clone-frontend/*.sln
